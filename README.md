@@ -1,5 +1,5 @@
 # SP702_PythonForDataEngg_Capstone
-<i> Webscrapping and data cleaning project using jupyter notebooks </i>
+<i> Webscrapping and data cleaning project using Selenium </i>
 
 <h1> <b> Capstone </b> </h1>
 Overview of the Case </p>
