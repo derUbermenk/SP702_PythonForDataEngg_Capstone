@@ -82,6 +82,6 @@ A certain non-profit organization in the Philippines wants to collect data about
 
 <small>
     Sources: <br>
-    <i> maps.google.com </i>
+    <i> maps.google.com </i> <br>
     <i> agoda.com </i>
 </small>
