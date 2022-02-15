@@ -78,3 +78,10 @@ A certain non-profit organization in the Philippines wants to collect data about
     </blockquote>
 <li> Store the data in a csv file. One csv file per location. File name format: Tourist_site.csv
 <li> Please upload your Jupyter notebook file. Filename format: Extract_Location_Source.ipynb. </li>
+
+
+<small>
+    Sources: <br>
+    <i> maps.google.com </i>
+    <i> agoda.com </i>
+</small>
