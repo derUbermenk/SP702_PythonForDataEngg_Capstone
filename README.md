@@ -1,4 +1,4 @@
-# SP702_PythonForDataEngg_Capstone
+# SP702 PythonForDataEngg Capstone
 <i> Webscrapping and data cleaning project using Selenium </i>
 
 <h1> <b> Capstone </b> </h1>
